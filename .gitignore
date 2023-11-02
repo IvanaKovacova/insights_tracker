@@ -1,0 +1,6 @@
+.venv/
+notes.txt
+__pycache__/
+dist/
+build/
+InsightsTracker.spec
